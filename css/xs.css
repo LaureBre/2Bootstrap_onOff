@@ -1,8 +1,10 @@
 *
-{color:red;}
-
-.case
 {
-  margin: 2.5%;
-  padding: 5%;
+  color:black;
+}
+
+.container
+{
+  max-width: 350px;
+  margin: auto;
 }
