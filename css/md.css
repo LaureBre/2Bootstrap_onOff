@@ -3,9 +3,28 @@
   color:rgb(196, 28, 22);
 }
 
-
 .container
 {
   max-width: 1000px;
   margin: auto;
+}
+
+h2, .basDeCase
+{
+  text-shadow: 1px 1px lightgrey;
+}
+
+.basDeCase:hover
+{
+  text-shadow: none;
+}
+
+a:hover
+{
+  background-color: rgb(255, 28, 22);
+}
+
+.basDeCase .bouton:hover
+{
+  color: white;
 }

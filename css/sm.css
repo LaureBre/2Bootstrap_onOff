@@ -2,3 +2,14 @@
 {
   color:white;
 }
+
+a:hover
+{
+  background-color: white;
+  color: black;
+}
+
+h2:hover, .basDeCase .bouton:hover
+{
+  color: black;
+}
