@@ -14,7 +14,12 @@ a:hover
   background-color: rgb(1, 50, 0);
 }
 
-.basDeCase .bouton:hover
+.basDeCase .rejouer:hover
 {
   color: white;
+}
+
+button:hover
+{
+  background-color:  rgb(1, 50, 0);
 }

@@ -9,7 +9,12 @@ a:hover
   color: black;
 }
 
-h2:hover, .basDeCase .bouton:hover
+h2:hover, .basDeCase .rejouer:hover
 {
   color: black;
+}
+
+button:hover
+{
+  background-color: white;
 }

@@ -24,7 +24,12 @@ a:hover
   background-color: rgb(255, 28, 22);
 }
 
-.basDeCase .bouton:hover
+.basDeCase .rejouer:hover
 {
   color: white;
+}
+
+button:hover
+{
+  background-color: rgb(255, 28, 22);
 }
