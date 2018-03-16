@@ -1,4 +1,4 @@
-Context : Aformac training for professionnal title Software developper
+Context : Aformac training for professional title Software developper
 
 Goal : in groups of two, with Boostrap first then without, make several responsive divs with : 
 - an image
